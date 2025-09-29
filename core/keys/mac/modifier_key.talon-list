@@ -7,6 +7,7 @@ control: ctrl
 shift: shift
 super: cmd
 command: cmd
+mod: cmd
 option: alt
 function: fn
 globe: fn

@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: Maris-MacBook-Air
+-
+user: /Users/tang
+desktop: /Users/tang/Desktop
+desk: /Users/tang/Desktop
+documents: /Users/tang/Documents
+docks: /Users/tang/Documents
+downloads: /Users/tang/Downloads
+music: /Users/tang/Music
+pictures: /Users/tang/Pictures
+videos: /Users/tang/Videos
+talon home: /Users/tang/.talon
+talon recordings: /Users/tang/.talon/recordings
+talon user: /Users/tang/.talon/user
+home: /Users/tang
